@@ -1,4 +1,4 @@
-# 🔐 Hash Cracker - Dictionary & Brute-Force Password Cracking Tool
+# 🔐 Password Decrypt Python - Dictionary & Brute-Force Password Cracking Tool
 
 A lightweight, multithreaded Python script to crack hashed passwords using dictionary attacks, remote URL wordlists, and optional brute-force techniques. Supports common hashing algorithms including MD5, SHA1, SHA256, and SHA512.
 
