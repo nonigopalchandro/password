@@ -34,10 +34,8 @@ pip install requests
 ## 🚀 Usage
 Step 1: Navigate to your script directory
 
-```bash
 cd C:\cracker
 
 ## Run the script using one of the following commands:
 ✅ Remote wordlist (GitHub raw link):
-```bash
 python password.py a4bf9ecfc5fc3ab2f482aa328435a3a4 'https://raw.githubusercontent.com/nonigopalchandro/password/refs/heads/main/pass.txt'
